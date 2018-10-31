@@ -1,0 +1,14 @@
+{
+    "CostumeType": "Spooky",
+    "Year": 2018,
+    "Costumes": [
+        {
+            "Name": "Skeleton",
+            "IsMovieRelated": false
+        },
+        {
+            "Name": "Harry Potter",
+            "IsMovieRelated": true
+        }
+    ]
+}
